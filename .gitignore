@@ -1,0 +1,24 @@
+## Ignore build and publish output
+bin/
+obj/
+publish/
+
+## Ignore temporary files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code settings
+.vscode/
+
+## ASP.NET-specific
+wwwroot/lib/
+node_modules/
+
+## Ignore Bootstrap/dist if copied manually
+wwwroot/lib/bootstrap/
+
+## Ignore system files
+.DS_Store
+Thumbs.db
