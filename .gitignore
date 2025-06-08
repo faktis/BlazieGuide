@@ -1,7 +1,6 @@
 ## Ignore build and publish output
-bin/
+
 obj/
-publish/
 
 ## Ignore temporary files
 *.user
