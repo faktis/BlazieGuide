@@ -1,5 +1,5 @@
 ## Ignore build and publish output
-bin/
+bin/Debug
 obj/
 publish/
 
