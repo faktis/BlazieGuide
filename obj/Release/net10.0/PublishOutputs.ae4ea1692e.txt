@@ -1,0 +1,2 @@
+C:\workspace\Eros\GhPages\TestGhPages\BlazingGhPages\bin\Release\net10.0\publish\dotnet.js
+C:\workspace\Eros\GhPages\TestGhPages\BlazingGhPages\bin\Release\net10.0\publish\web.config
