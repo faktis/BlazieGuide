@@ -22,3 +22,4 @@ wwwroot/lib/bootstrap/
 ## Ignore system files
 .DS_Store
 Thumbs.db
+.vs/
